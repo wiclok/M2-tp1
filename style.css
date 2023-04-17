@@ -1,4 +1,9 @@
 /* Estilos generales de la página */
+
+.{
+	background: fixed;
+}
+
 body {
 	margin: 0;
 	padding: 0;
@@ -59,4 +64,12 @@ footer {
 
 .h3{
 	color:#8027e6;
+}
+
+.logo{
+	width: 200px;
+	height: 200px;
+}
+.titulo{
+	color: #8027e6;
 }
