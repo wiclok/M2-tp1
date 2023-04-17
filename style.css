@@ -9,13 +9,13 @@ body {
 
 /* Estilos del encabezado */
 header {
-	background-color: #f0f0f0;
+	background-color: #ebebeb;
 	padding: 20px;
 }
 
 /* Estilos de la barra de navegación */
 nav {
-	background-color: #333;
+	background-color: #8027e6;
 	color: #fff;
 	padding: 10px;
 }
@@ -49,4 +49,7 @@ footer {
 	color: #fff;
 	padding: 20px;
 	text-align: center;
+}
+.tich{
+	color: #8027e6;
 }
